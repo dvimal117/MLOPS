@@ -1,0 +1,14 @@
+{
+  "model_name":"trained_models/trained_model_01",
+  "batch_size" : "32",
+  "img_height" : "256",
+  "img_width" : "256",
+  "file_path" : "C:/Users/vimal.dhanapal/Downloads/project1.0/project/Car-Bike-Dataset",
+  "num_classes": "7",
+  "num_epochs": "10",
+  "feature_extract": "False",
+  "pre_trained": "True",
+  "save_model": "/exp/data/models/",
+  "save_confusion_mat": "/exp/data/densenet_17_mat.csv"
+
+}
